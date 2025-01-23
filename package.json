@@ -1,0 +1,24 @@
+{
+  "name": "trivia_ue",
+  "version": "1.0.0",
+  "description": "Proyecto de TRivia UE la VICTORIA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gissela0611/trivia_UE.git"
+  },
+  "author": "Gissela Ramirez_Jonathan Arellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gissela0611/trivia_UE/issues"
+  },
+  "homepage": "https://github.com/Gissela0611/trivia_UE#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
